@@ -1,4 +1,4 @@
-# Python Projects 🐍
+# Python Projects 
 
 This repository contains a collection of beginner to intermediate level Python projects for learning and practice. Each project is self-contained and demonstrates the use of different Python concepts.
 
